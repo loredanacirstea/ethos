@@ -1,0 +1,2 @@
+# ethos
+My Ethos
