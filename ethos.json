@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "virtues": {
+    "order":           "https://ctzurcanu.github.io/virtues/order.html",
+    "reason":          "https://ctzurcanu.github.io/virtues/faith.html",
+    "economy":         "https://ctzurcanu.github.io/virtues/economy.html",
+    "charity":         "https://ctzurcanu.github.io/virtues/charity.html",
+    "goodness":        "https://ctzurcanu.github.io/virtues/goodness.html",
+    "hope":            "https://ctzurcanu.github.io/virtues/hope.html",
+    "harmony":         "https://ctzurcanu.github.io/virtues/harmony.html",
+    "prudence":        "https://ctzurcanu.github.io/virtues/prudence.html",
+    "forgiveness":     "https://ctzurcanu.github.io/virtues/forgiveness.html",
+    "justice":         "https://ctzurcanu.github.io/virtues/justice.html",
+    "governance":      "https://ctzurcanu.github.io/virtues/governance.html",
+    "temperance":      "https://ctzurcanu.github.io/virtues/temperance.html",
+    "fairness":        "https://ctzurcanu.github.io/virtues/undefined.html",
+    "fortitude":       "https://ctzurcanu.github.io/virtues/fortitude.html",
+    "competition":     "https://ctzurcanu.github.io/virtues/undefined.html",
+    "measurability":   "https://ctzurcanu.github.io/virtues/measurability.html",
+    "market":          "https://ctzurcanu.github.io/virtues/undefined.html",
+    "abundance":       "https://ctzurcanu.github.io/virtues/abundance.html",
+    "industriousness": "https://ctzurcanu.github.io/virtues/undefined.html",
+    "health":          "https://ctzurcanu.github.io/virtues/survival.html",
+    "other":           "https://ctzurcanu.github.io/virtues/concepts.html"
+  },
+  "hierarchy": [
+    ["order", "hierarchy", "provable order"],
+    ["reason", "faith"],
+    ["economy"],
+    ["charity", "volunteering"],
+    ["goodness", "provable goodness"],
+    ["hope", "idealism", "potential", "invention", "integration"],
+    ["harmony", "generosity", "humility", "recognition", "greatness", "gratitude", "nobility"],
+    ["prudence"],
+    ["forgiveness", "repentance"],
+    ["justice"],
+    ["governance"],
+    ["temperance"],
+    ["fairness"],
+    ["fortitude"],
+    ["competition"],
+    ["measurability"],
+    ["market"],
+    ["abundance"],
+    ["industriousness"],
+    ["health", "survival"]
+  ],
+  "principles": {
+    "golden rule positive":    "maybe",
+    "golden rule negative":    "true"
+  },
+  "compatibility": {
+    "no contradiction claim":  "true",
+    "defined top":             "true",
+    "known identity":          "true"
+  }
+}
