@@ -1,5 +1,8 @@
 {
   "version": 1,
+  "revision": 1,
+  "hash": "f8f1187a5992c1ad24f2bf76ff52aa3c0603c9966a9c619e2d1f6621d2f41467",
+  "last_revision": "d3ea80ea91bb1341da2a2d6b82b9b2c7d763f96e",
   "virtues": {
     "order":           "https://ctzurcanu.github.io/virtues/order.html",
     "reason":          "https://ctzurcanu.github.io/virtues/faith.html",
@@ -45,13 +48,37 @@
     ["industriousness"],
     ["health", "survival"]
   ],
+  "definitions": {
+    "other": "https://ctzurcanu.github.io/ethos/ethos.md"
+  },
   "principles": {
-    "golden rule positive":    "maybe",
-    "golden rule negative":    "true"
+    "golden_rule_positive":    "maybe",
+    "golden_rule_negative":    "true"
+  },
+  "declarations": {
+    "categorical_imperative":  "https://github.com/ctzurcanu/ethos/blob/main/ethos.md#respect-the-categorical-imperative",
+    "ack_other_ethos":         "https://github.com/ctzurcanu/ethos/blob/main/ethos.md#acknowledge-the-existence-of-another-ethos",
+    "invite_judge":            "https://github.com/ctzurcanu/ethos/blob/main/ethos.md#judgement-invitation",
+    "web_cookies_level2":      "https://github.com/ctzurcanu/ethos/blob/main/ethos.md#web-cookies"
+  },
+  "profiles": {
+    "other": "provided upon reciprocation"
+  },
+  "profile_info": {
+    "first_name": "Christian",
+    "last_name": "Tzurcanu",
+    "email": "upon request",
+    "other": "upon request"
   },
   "compatibility": {
-    "no contradiction claim":  "true",
-    "defined top":             "true",
-    "known identity":          "true"
+    "no_contradiction_claim":  "true",
+    "defined_top":             "true",
+    "known_identity":          "true",
+    "reciprocal_declarations": "true"
+  },
+  "state": {
+    "hash": "b48d38f93eaa084033fc5970bf96e559c33c4cdc07d889ab00b4d63f9590739d",
+    "URI":  "https://raw.githubusercontent.com/ctzurcanu/ethos/main/state.json"
   }
+
 }
