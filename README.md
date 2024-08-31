@@ -67,4 +67,6 @@ The object contains the attribute "state" that contains an object with a hash an
 As an integrity stamp, we will use Keccak-256 as hash function. For example from [https://emn178.github.io/online-tools/keccak_256.html](https://emn178.github.io/online-tools/keccak_256.html)
 
 
+## Created by
 
+https://github.com/ctzurcanu/ethos
