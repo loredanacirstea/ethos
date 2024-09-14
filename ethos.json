@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "revision": 1,
-  "hash": "f8f1187a5992c1ad24f2bf76ff52aa3c0603c9966a9c619e2d1f6621d2f41467",
-  "last_revision": "d3ea80ea91bb1341da2a2d6b82b9b2c7d763f96e",
+  "revision": 2,
+  "hash": "2366c839725a1aee37614581c106f1a4925307818af5999e85ee49fc1fd3ad95",
+  "last_revision": "9356f969c66a676c47d2f53ae09dca07f6b6351a",
   "virtues": {
     "order":           "https://ctzurcanu.github.io/virtues/order.html",
     "reason":          "https://ctzurcanu.github.io/virtues/faith.html",
@@ -60,6 +60,17 @@
     "ack_other_ethos":         "https://github.com/ctzurcanu/ethos/blob/main/ethos.md#acknowledge-the-existence-of-another-ethos",
     "invite_judge":            "https://github.com/ctzurcanu/ethos/blob/main/ethos.md#judgement-invitation",
     "web_cookies_level2":      "https://github.com/ctzurcanu/ethos/blob/main/ethos.md#web-cookies"
+  },
+  "output": {
+    "art": {
+      "video": ["https://www.youtube.com/channel/UC5VMvbqSMoqGs0nFeESrf5g"]
+    },
+    "theory": {
+      "ethics": [
+        "https://ctzurcanu.github.io/ethos/",
+        "https://ctzurcanu.github.io/virtues/"
+      ]
+    }
   },
   "profiles": {
     "other": "provided upon reciprocation"

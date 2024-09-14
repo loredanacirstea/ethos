@@ -24,7 +24,7 @@ All the steps have to conform to the Principles above. For example: you share yo
 1. Allow for judgments concerning your ethos_1.
 1. Allow for judgments concerning the other party's ethos_1. 
 1. Make the previous step sustainable.
-1. Sharing your friendship ethos: ethos_2. Here starts the most superficial "friendship" relationship.
+1. Sharing your product and services offer for friends: services_1. Here starts the most superficial "friendship" relationship.
 1. Allow for the creation of a common ethos, ethos_3 between the 2 parties. The editing is collaborative.
 1. Allow the other party to judge you according to ethos_3.
 1. Make the previous step sustainable.
